@@ -26,6 +26,10 @@ class Count{
 		System.out.println("Number of chracters: " + c);
 		System.out.println("Number of words:     " + w);
 		System.out.println("Number of lines:     " + l);
+		
+		
+		System.out.println("Number of chracters: " + c,w);
+		
 	}
 }
 		
