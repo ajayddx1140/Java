@@ -34,6 +34,7 @@ public void actionPerformed(ActionEvent ae)
 int n1 = Integer.parseInt(num1.getText());
 int n2 = Integer.parseInt(num2.getText());
 int num3 = n1 + n2;
+System.out.println("Result of Adding Two no is :");
 res.setText(String.valueOf(num3));
 
 
