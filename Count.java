@@ -20,6 +20,9 @@ class Count{
 		while(br3.readLine() != null)
 			l++;
 		
+		while(br3.readLine() = 0a)
+			l++;
+		
 		System.out.println("Number of chracters: " + c);
 		System.out.println("Number of words:     " + w);
 		System.out.println("Number of lines:     " + l);
