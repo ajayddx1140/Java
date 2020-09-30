@@ -11,6 +11,7 @@ public static void main(String s[])
 			if(((i+j) % 2) == 0)
 				System.out.println("X element is called :");
 				System.out.println(x[i]);
+				System.out.println("This is demo file");
 			else
 				System.out.println("Y element is called :");
 				System.out.println(y[j]);
