@@ -10,6 +10,7 @@ public static void main(String s[])
 		for(int j = y.length-1; j > 0; j--)
 			if(((i+j) % 2) == 0)
 				System.out.println(x[i]);
+				System.out.println("This is demo file");
 			else
 				System.out.println(y[j]);
 			
