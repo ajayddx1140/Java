@@ -33,7 +33,15 @@ class DeleteNo{
 				pw3.println(line1);
 			}
 			line1 = br1.readLine();
+			
+			int flag = 0;
+			while(line1 != null){
+				flag = 0;
+				String line2 = br2.readLine();
+			}
+			// done with the flag
 		}
+			
 		pw3.close();
 	}
 }
