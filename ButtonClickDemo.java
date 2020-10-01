@@ -31,3 +31,8 @@ public static void main(String args[])
 new ButtonClickDemo();
 }
 }
+public void actionPerformed(ActionEvent e)
+{
+String str=e.getActionCommand();
+if(str.equals("Bharat"))
+cb.setLabel("India");
